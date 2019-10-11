@@ -3,6 +3,8 @@
 
 Extensão para o Google Chrome criada para monitorar o status da emissão de NF-e. Pode realizar o [download da extensão neste link][1].
 
+Extensão com erro 
+
 ## Uso
 
 Após instalar a extensão basta configurar se os alertas devem ou não ser exibidos quando um determinado estado entra em instabilidade, escolher o intervalo para ser avisado e os estados monitorados.
