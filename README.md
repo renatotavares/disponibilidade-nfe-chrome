@@ -10,7 +10,7 @@ Após instalar a extensão basta configurar se os alertas devem ou não ser exib
 ## Contribuindo
 
 1. Faça um fork!
-2. Crie sua melhoria em um branch: `git checkout -b my-new-feature`
+2. Crie sua melhoria em um branch: `git checkout -b new-feature`
 3. Commit suas mudanças: `git commit -am 'Adicionando nova funcionalidade'`
 4. Envie ao branch: `git push origin my-new-feature`
 5. Envie um pull request :D
