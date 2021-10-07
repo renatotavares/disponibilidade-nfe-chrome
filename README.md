@@ -17,7 +17,7 @@ Após instalar a extensão basta configurar se os alertas devem ou não ser exib
 
 ## Changelog
 
-#### Versão 1.0.0 *(2019-03-30)*
+#### Versão 1.0.0 *(2020-03-30)*
 
 - Versão inicial.
 
